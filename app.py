@@ -1,5 +1,6 @@
-print("Hellow World!")
+# print something
 
+print("Hello World!")
 
 print("   /|")
 print("  / |")
