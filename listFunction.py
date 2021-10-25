@@ -17,4 +17,3 @@ print(friends)
 print(friends2)
 
 
-
